@@ -18,9 +18,9 @@
 
 ***
 
-| # | PROBLEM | SOLUTION | DIFFICULTY | SCORE |
+| # | PROBLEM | SOLUTION | DIFFICULTY | CHALLENGE WHY |
 | --- | --- | --- | --- | --- |
-| 1 | []() | [Solution]() | Easy | |
+| 1 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [Solution](https://github.com/suinkangme/LeetCode_practice/blob/main/MySQL/Customers%20Who%20Never%20Order.sql) | Easy | *IS NULL* |
 | 2 | []() | [Solution]() | Easy | |
 | 3 | []() | [Solution]() | Easy | |
 | 4 | []() | [Solution]() | Easy | |
