@@ -21,7 +21,7 @@
 | # | PROBLEM | SOLUTION | DIFFICULTY | CHALLENGE WHY |
 | --- | --- | --- | --- | --- |
 | 1 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [Solution](https://github.com/suinkangme/LeetCode_practice/blob/main/MySQL/Customers%20Who%20Never%20Order.sql) | Easy | *IS NULL* |
-| 2 | []() | [Solution]() | Easy | |
+| 2 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/) | [Solution]() | Easy | |
 | 3 | []() | [Solution]() | Easy | |
 | 4 | []() | [Solution]() | Easy | |
 | 5 | []() | [Solution]() | Easy | |
