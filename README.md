@@ -22,7 +22,7 @@
 | --- | --- | --- | --- | --- |
 | 1 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [Solution](https://github.com/suinkangme/LeetCode_practice/blob/main/MySQL/Customers%20Who%20Never%20Order.sql) | Easy | *IS NULL* |
 | 2 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/) | [Solution](https://github.com/suinkangme/LeetCode_practice/blob/main/MySQL/181_%20Employees%20Earning%20More%20Than%20Their%20Managers.sql) | Easy | SELF JOIN uses INNER JOIN |
-| 3 | []() | [Solution]() | Easy | |
+| 3 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [Solution]() | Easy | |
 | 4 | []() | [Solution]() | Easy | |
 | 5 | []() | [Solution]() | Easy | |
 | 6 | []() | [Solution]() | Easy | |
